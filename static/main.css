@@ -1,0 +1,35 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Ultra', serif;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+a:link,
+a:visited {
+    color: black;
+}
+
+a:active,
+a:hover {
+    color: hotpink;
+}
+
+#main {
+    max-width: 1024px;
+}
+
+img.responsive {
+    max-width: 100%;
+    display: block;
+}
+
+.centered {
+    margin: auto;
+}
